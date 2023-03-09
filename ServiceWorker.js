@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-Karter-s-Wild-Ride-1.0";
+const cacheName = "iantest-Karter-s-Wild-Ride-1.0";
 const contentToCache = [
     "Build/Karter-s-Wild-Ride_Game.loader.js",
-    "Build/Karter-s-Wild-Ride_Game.framework.js.gz",
-    "Build/Karter-s-Wild-Ride_Game.data.gz",
-    "Build/Karter-s-Wild-Ride_Game.wasm.gz",
+    "Build/Karter-s-Wild-Ride_Game.framework.js",
+    "Build/Karter-s-Wild-Ride_Game.data",
+    "Build/Karter-s-Wild-Ride_Game.wasm",
     "TemplateData/style.css"
 
 ];
